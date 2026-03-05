@@ -14,7 +14,25 @@
 // const score=100.3;
 // const isLoggedin=false;
 // const outsidetemp=null;
- const sym=symbol("foo");
-typeof sym;
+//  const sym=symbol("foo");
+// typeof sym;
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//stack(Primitive)-->copy ,heap(non-Primitive)-->reference 
+let myYoutubename="anshikaagarwal"
+let anothername= myYoutubename
+anothername="ashi"
+console.log(myYoutubename)
+console.log(anothername)
+
+let userone=
+{
+    email:"user@google.com",
+    upi: "user@ybl"
+
+}
+let usertwo=userone
+usertwo.email="anshika@google.com"
+console.log(userone.email)
+console.log(usertwo.email)
 
 
