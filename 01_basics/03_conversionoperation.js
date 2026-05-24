@@ -9,7 +9,7 @@
 // console.log(valueInNumber)
 
 // '33'=> 33
-//'33abc'=>NaN
+//'33abc'=>NaN--> confusing is that nan type is number 
 // true=> 1 , false=> 0
 //let isLoggedIn= 1
 // let isLoggedIn=""

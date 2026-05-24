@@ -1,5 +1,5 @@
 // datatypes -> primitive and non-primitive
-// kis tarah se data ko memory me rakha jata ha aur excess kia jata ha us basis par data ka two 
+// kis tarah se data ko memory me rakha jata ha aur access kia jata ha us basis par data ka two 
 // categorisation ha  ->primitive && non-primitive
 // Primitive (call by value hote hai)
 // 7 types :  STRING,NUMBER,NULL,UNDEFINED,BOOLEAN,SYMBOL(UNIQUE KE LIY),BIGINT
@@ -18,21 +18,36 @@
 // typeof sym;
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //stack(Primitive)-->copy ,heap(non-Primitive)-->reference 
-let myYoutubename="anshikaagarwal"
-let anothername= myYoutubename
-anothername="ashi"
-console.log(myYoutubename)
-console.log(anothername)
+// let myYoutubename="anshikaagarwal"
+// let anothername= myYoutubename
+// anothername="ashi"
+// console.log(myYoutubename)
+// console.log(anothername)
 
-let userone=
+// let userone=
+// {
+//     email:"user@google.com",
+//     upi: "user@ybl"
+
+// }
+// let usertwo=userone
+// usertwo.email="anshika@google.com"
+// console.log(userone.email)
+// console.log(usertwo.email)
+// const bigNumber=3455788765444444444444n// represents bigint
+// const id=Symbol('123')
+// const anotherid=Symbol('123');
+// console.log(id==anotherid)
+// arrays 
+const fruits=["apple","mango","guava"]
 {
-    email:"user@google.com",
-    upi: "user@ybl"
-
+    name="anshika"
+    age=20
 }
-let usertwo=userone
-usertwo.email="anshika@google.com"
-console.log(userone.email)
-console.log(usertwo.email)
+// or letmyobj={
+//     name="anshika"
+//     age=20
+// }
+
 
 

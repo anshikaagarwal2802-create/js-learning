@@ -16,7 +16,7 @@
 // console.log(undefined==0);
 // console.log(undefined>0);
 // console.log(undefined<0);
-// STRICT CHECK ===( data types ko bhi check krta hai)
+// STRICT CHECK ===( data types ko bhi check krta hai if same data type nhi ha  toh conversion nhi krta so is case me false aata ha ans but if == hota toh true hi deta kyunki automatically convert kr deta ha )
 console.log("2"===2);
 
 

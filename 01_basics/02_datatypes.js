@@ -1,5 +1,5 @@
 "use strict"; //treat all js code as newer version
-// alert(3+3) // we are using nodejs ,not browser
+// alert(3+3) // we are using nodejs ,not browser this gives error 
 let name ="anshika" // string data type
 let age=19 // number data type
 let isloggedIn=false
