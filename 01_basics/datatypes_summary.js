@@ -52,7 +52,5 @@ const myfunction=function(){
     console.log("Hello World");
 }
 console.log(typeof fruits)
-//non primitive types ka return type object hota ha function ka function aata ha but usko object function kheta ha
-
-
+//non primitive types ka return type object hota ha function ka function aata ha but usko object function kheta ha 
 
