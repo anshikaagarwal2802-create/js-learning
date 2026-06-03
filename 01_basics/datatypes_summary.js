@@ -48,6 +48,11 @@ const fruits=["apple","mango","guava"]
 //     name="anshika"
 //     age=20
 // }
+const myfunction=function(){
+    console.log("Hello World");
+}
+console.log(typeof fruits)
+//non primitive types ka return type object hota ha function ka function aata ha but usko object function kheta ha
 
 
 
