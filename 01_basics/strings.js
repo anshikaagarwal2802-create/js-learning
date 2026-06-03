@@ -26,4 +26,4 @@ console.log(url.replace('%20','-'))
 console.log(url.includes('anshikaaa'))
 console.log(name.split('-'))
 console.log(name.blink())
-console.log(anothername.bold())
+console.log(anothername.bold());
