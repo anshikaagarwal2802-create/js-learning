@@ -4,12 +4,13 @@
 //object.create--> ctor method 
 //object literal
 //interview imp
+//symbol ko define kia 
 // const mysym=Symbol("key1")
-
+//objects declaration
 // const jsuser={
 //     name:"anshika",
 //     age:18,
-//     [mysym]:"mykey1",//symbol as a key 
+//     [mysym]:"mykey1",//symbol as a key in a object
 //     "full name":"anshika agarwal",
 //     location:"jaipur",
 //     email:"anshika@goggle.com",
@@ -35,6 +36,7 @@
 //     console.log("hello js user ")
 // }
 // console.log(jsuser.greeting())
+// a function refering property of object 
 // jsuser.greetingtwo=function(){
 //     console.log(`hello js user, ${this.name}`)//to refer properties of object we used this 
 
